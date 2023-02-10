@@ -8,7 +8,7 @@ wether these strings are matched with the given regular expression or not
 <br />
 To compile the code: javac *.java
 <br />
-(if you don't have Junit testing jar installed, delete the _Test.java)
+(if you don't have Junit testing jar installed, delete the Test.java)
 <br />
 <br />
 There are two modes for users to choose:
